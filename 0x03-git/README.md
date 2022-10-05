@@ -1,1 +1,3 @@
-my first readme
+[master 380009b] This is absolutely right
+ 1 file changed, 1 insertion(+)
+ create mode 100644 0x03-git/README.md
